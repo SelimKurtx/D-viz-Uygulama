@@ -1,4 +1,4 @@
-const api_key = "d4ee15783e640a9e183029d6"
+const api_key = "api_key"
 const url = "https://v6.exchangerate-api.com/v6/" + api_key
 
 
